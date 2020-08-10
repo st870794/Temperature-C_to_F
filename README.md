@@ -1,2 +1,1 @@
-"# Temperature-C_to_F" 
-"# Temperature-C_to_F" 
+# 這是一個攝氏溫度轉換成華氏溫度的程式
